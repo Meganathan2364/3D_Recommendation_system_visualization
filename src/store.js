@@ -10,7 +10,7 @@ export const USER_COLORS = [
   '#a855f7', // Dhivya: Purple
   '#f97316', // Anisha: Orange
   '#3b82f6', // Moge: Blue
-  '#eab308', // Harini: Yellow
+  '#eab308', // Nivashini: Yellow
 ]
 
 // Default taste coordinates in 3D for each user [X: Sports, Y: Tech, Z: ActionCinema]
@@ -23,7 +23,7 @@ export const defaultUserVectors = {
   4: [3, 1, 4], // Dhivya (Action & Cricket)
   5: [1, 1, 3], // Anisha (Comedy/Drama)
   6: [5, 2, 1], // Moge (Heavy Sports, Low Tech)
-  7: [1, 2, 5], // Harini (Action Cinema enthusiast)
+  7: [1, 2, 5], // Nivashini (Action Cinema enthusiast)
 }
 
 export const useStore = create((set, get) => ({

@@ -59,7 +59,7 @@ function DynamicCosineLabControls() {
   const presets = [
     { label: 'Prashanth & Meganathan (2 Tech/Sports)', ids: [0, 1] },
     { label: 'Prashanth, Meganathan & Nivetha (3 Diverse)', ids: [0, 1, 2] },
-    { label: 'Priscilla, Anisha & Harini (3 Cinema/Music)', ids: [3, 5, 7] },
+    { label: 'Priscilla, Anisha & Nivashini (3 Cinema/Music)', ids: [3, 5, 7] },
     { label: 'All 8 Team Members (Full 3D Web)', ids: [0, 1, 2, 3, 4, 5, 6, 7] }
   ]
 

@@ -2,7 +2,7 @@
 export const genres = ['Sports', 'Tech', 'ActionCinema', 'RomanticCinema', 'Cricket', 'Music']
 
 // Team members specified:
-// Prashanth, Meganathan, Nivetha, Priscilla, Dhivya, Anisha, Moge, Harini
+// Prashanth, Meganathan, Nivetha, Priscilla, Dhivya, Anisha, Moge, Nivashini
 export const users = [
   'Prashanth',
   'Meganathan',
@@ -11,7 +11,7 @@ export const users = [
   'Dhivya',
   'Anisha',
   'Moge',
-  'Harini'
+  'Nivashini'
 ]
 
 // Persona descriptions for clear presentation
@@ -23,7 +23,7 @@ export const userPersonas = {
   Dhivya: { fav: 'Cricket & Tournaments', desc: 'Passionate about cricket championships, T20s & outdoor sports.' },
   Anisha: { fav: 'Comedy & Drama Cinema', desc: 'Family dramas, comedy movies, and entertaining cinema.' },
   Moge: { fav: 'Outdoor Sports & Football', desc: 'Athletics, competitive sports leagues, and football.' },
-  Harini: { fav: 'Action & Thriller Cinema', desc: 'Edge-of-the-seat action thrillers and mystery movies.' },
+  Nivashini: { fav: 'Action & Thriller Cinema', desc: 'Edge-of-the-seat action thrillers and mystery movies.' },
 }
 
 // 8 distinct catalog items:
@@ -86,6 +86,6 @@ export const ratings0 = [
   // 6. Moge: [AIRobotics: 1, TechReview: 1, Football: 0 (UNRATED), Romantic: 1, Concert: 1, Cricket: 5, Comedy: 1, Action: 2]
   [1, 1, 0, 1, 1, 5, 1, 2],
 
-  // 7. Harini: [AIRobotics: 1, TechReview: 1, Football: 1, Romantic: 1, Concert: 2, Cricket: 2, Comedy: 2, Action: 0 (UNRATED)]
+  // 7. Nivashini: [AIRobotics: 1, TechReview: 1, Football: 1, Romantic: 1, Concert: 2, Cricket: 2, Comedy: 2, Action: 0 (UNRATED)]
   [1, 1, 1, 1, 2, 2, 2, 0],
 ]
